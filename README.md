@@ -5,6 +5,12 @@ Firebase Cloud Messaging Http v1 for PHP
 
 <img src="docs/banner.png" alt="Firebase Cloud Messaging Http v1" width="100%">
 
+## Installation
+
+```sh
+composer require kedniko/firebase-cloud-messaging-http-v1-php
+```
+
 ## Example
 
 ```php
